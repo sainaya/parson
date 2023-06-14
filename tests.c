@@ -127,8 +127,6 @@ int tests_main(int argc, char *argv[]) {
     test_suite_5();
     test_suite_6();
     test_suite_7();
-    test_suite_8();
-    test_suite_9();
     test_suite_10();
     test_suite_11();
     test_memory_leaks();

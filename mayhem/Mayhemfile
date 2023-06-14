@@ -1,0 +1,5 @@
+project: parson
+target: test
+
+cmds:
+  - cmd: /test

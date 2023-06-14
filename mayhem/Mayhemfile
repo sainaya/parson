@@ -8,5 +8,6 @@ tasks:
     - name: regression_testing
     - name: coverage_analysis
 cmds:
-  - cmd: /test @@
-    env: {}
+  - cmd: /test
+  - env: {}
+  - dir: tests

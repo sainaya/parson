@@ -1,5 +1,11 @@
 project: parson
 target: parson
 
+tasks:
+    - name: exploitability_factors
+    - name: behavior_testing
+    - name: regression_testing
+    - name: coverage_analysis
+
 cmds:
   - cmd: /test

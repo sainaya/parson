@@ -1,5 +1,5 @@
 project: parson
-target: test
+target: parson
 
 cmds:
   - cmd: /test

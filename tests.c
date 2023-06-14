@@ -101,7 +101,7 @@ int main(int argc, char *argv[]) {
 int tests_main(int argc, char *argv[]);
 int tests_main(int argc, char *argv[]) {
 #endif
-#if 0 /* unconfuse xcode */
+#if 0 
 }
 #endif
     /* Example functions from readme file:      */
@@ -903,4 +903,5 @@ static void failing_free(void *ptr) {
         g_failing_alloc.alloc_count--;
     }
     free(ptr);
+}
 }

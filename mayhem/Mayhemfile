@@ -8,4 +8,6 @@ tasks:
     - name: coverage_analysis
 
 cmds:
-  - cmd: /test
+  - cmd: /test @@
+    env: {}
+    filepath: test_2_comments.txt
